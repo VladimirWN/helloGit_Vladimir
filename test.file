@@ -1,12 +1,15 @@
-Ваши действия в режиме инкогнито будут недоступны другим пользователям этого устройства. Однако закладки, скачанные файлы и объекты из списка для чтения сохранятся. Подробнее
+remote: Enumerating objects: 1, done.
+remote: Counting objects: 100% (1/1), done.
+remote: Total 1 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (1/1), 629 bytes | 52.00 KiB/s, done.
+From https://github.com/AleksandrGladkovIT/helloGit
+   c34f5a5..36e3a48  main       -> origin/main
+Updating c34f5a5..36e3a48
+Fast-forward
+ test.file | 13 ++++++++++++-
+ 1 file changed, 12 insertions(+), 1 deletion(-)
 
-В Chrome не будет сохраняться следующая информация:
-история браузера;
-файлы cookie и данные сайтов;
-сведения, указанные в формах.
-Ваши действия будут видны:
-сайтам, которые вы посещаете;
-вашему системному администратору;
-интернет-провайдеру.
-Блокировать сторонние файлы cookie
-Когда эта настройка включена, сайты не могут использовать файлы cookie, которые отслеживают ваши действия в Интернете. Из-за этого некоторые функции на сайтах могут работать некорректно.
+E:\studyGitGroup>git branch
+  branch3
+* main
+  second
