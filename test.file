@@ -1,1 +1,10 @@
 Ничего не нужно
+ * branch            main       -> FETCH_HEAD
+ = [up to date]      main       -> origin/main
+21:18:19.173: [studyGitGroup] git -c credential.helper= -c core.quotepath=false -c log.showSignature=false add --ignore-errors -A -f -- test.file
+21:18:19.334: [studyGitGroup] git -c credential.helper= -c core.quotepath=false -c log.showSignature=false commit -F E:\studyGitGroup\.git\MERGE_MSG --
+[main 1beb9af] Merge branch 'main' of https://github.com/AleksandrGladkovIT/helloGit
+21:19:04.675: [studyGitGroup] git -c credential.helper= -c core.quotepath=false -c log.showSignature=false push --progress --porcelain origin refs/heads/main:main
+Enumerating objects: 10, done.
+Delta compression using up to 6 threads
+Total 6 (delta 2), reused 0 (delta 0), pack-reused 0
